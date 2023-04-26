@@ -1,0 +1,8 @@
+#navbar{
+    flex-direction: column;
+}
+
+#services{
+    flex-direction: column;
+    height: 100px;
+}
